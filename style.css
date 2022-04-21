@@ -1,0 +1,30 @@
+.heading{
+    font-size:36px;
+    box-shadow:6px 6px 8px black;
+    width:100%;
+    margin: 2px;
+    margin-top: 0;
+}
+
+.note{
+    font-family:Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+    font-size: 18px;
+}
+
+#copyright{
+    background-color: black;
+    bottom: 0;
+    position:fixed;
+    width: 100%;
+    text-align: center;
+    color:white;
+    box-shadow: 6px 6px 20px black;
+    margin-bottom: 20px;
+    height: 38px;
+}
+
+canvas{
+    border: 6px solid rgb(0, 0, 0);
+    border-radius:16px;
+    box-shadow: 6px 6px 8px black;
+}
